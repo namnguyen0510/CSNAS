@@ -4,6 +4,8 @@ This is repository for the study "Neural architecture search via contrastive sel
 
 ## Overview
 
+![Alt text](CSNAS/path/to/img.jpg?raw=true "Title")
+
 ## Requirement
 ```
 python >= 3.5.5, pytorch == 0.3.1, torchvision == 0.2.0, hyperopt, graphviz
