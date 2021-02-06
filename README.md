@@ -3,11 +3,10 @@
 This is repository for the study "Neural architecture search via contrastive self-supervised learning:Is labeled data necessary for neural architecture search?". We propose a novel approach which leverages the contrastive self-supervised neural architecture search via sequential model-based optimization for searching a well-customized deep neural intelligence to classify skin diseases. First, our approach allows a search procedure on unlabeled skin lesion images by capitalizing on the advancement of self-supervised learning. Hence, it enables the copious usage of both labeled and unlabeled data and then alleviates data curation costs. Second, we conducted an extensive number of experiments to empirically show that our established intelligence outperforms state-of-the-art architectures concerning accuracy and robustness. Finally, our model demonstrates promising results in terms of utilizing for on-device mobile-based deep learning applications. In addition, due to its low energy requirements and better performance, it is well suited for medical image diagnosis under resource constrained environments.
 
 ## Overview
+Example CAM from test samples. Visit '/images' for more examples
+![plot](./images/example2.png)
 
 
-### Example CAM from test samples:
-![plot](./images/example1.png)![plot](./images/example2.png)
-![plot](./images/example3.png){: height="75px" align="left"}
 ## Requirement
 ```
 python >= 3.5.5, pytorch == 0.3.1, torchvision == 0.2.0, hyperopt, graphviz
@@ -35,4 +34,6 @@ cd eval
 python train_isic.py
 ```
 
-## Citaion
+## Citation
+
+
