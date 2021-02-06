@@ -4,8 +4,11 @@ This is repository for the study "Neural architecture search via contrastive sel
 
 ## Overview
 
-![plot](./images/example1.png)
 
+### Example CAM from test samples:
+![plot](./images/example1.png)
+![plot](./images/example2.png)
+![plot](./images/example3.png)
 ## Requirement
 ```
 python >= 3.5.5, pytorch == 0.3.1, torchvision == 0.2.0, hyperopt, graphviz
