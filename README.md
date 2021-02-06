@@ -6,8 +6,7 @@ This is repository for the study "Neural architecture search via contrastive sel
 
 
 ### Example CAM from test samples:
-![plot](./images/example1.png){: height="75px" align="left"}
-![plot](./images/example2.png){: height="75px" align="left"}
+![plot](./images/example1.png)![plot](./images/example2.png)
 ![plot](./images/example3.png){: height="75px" align="left"}
 ## Requirement
 ```
