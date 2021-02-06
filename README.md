@@ -4,7 +4,7 @@ This is repository for the study "Neural architecture search via contrastive sel
 
 ## Overview
 
-![Alt text](CSNAS/path/to/img.jpg?raw=true "Title")
+![Alt text](CSNAS/images/example1.png?raw=true "Title")
 
 ## Requirement
 ```
