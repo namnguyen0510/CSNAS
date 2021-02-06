@@ -21,6 +21,7 @@ The ISIC 2019 private test set and public train set can be founded in https://ch
 [3] Marc Combalia, Noel C. F. Codella, Veronica Rotemberg, Brian Helba, Veronica Vilaplana, Ofer Reiter, Allan C. Halpern, Susana Puig, Josep Malvehy: “BCN20000: Dermoscopic Lesions in the Wild”, 2019; arXiv:1908.02288.
 ```
 ## Pre-trained Models
+The pre-trained con be found at
 
 ## Code usage
 Search neural architecture:
