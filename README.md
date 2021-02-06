@@ -21,6 +21,14 @@ The ISIC 2019 private test set and public train set can be founded in https://ch
 
 ## Code usage
 Search neural architecture:
+```
+cd search
+python search.py
+```
 Evaluated discovered model:
+```
+cd eval
+python train_isic.py
+```
 
 ## Citaion
